@@ -121,11 +121,11 @@ KPI：CSFごとに達成すべき数値
 @fa[quote-left](フローチャート)
 
 
-@snap[midpoint span-40]
+@snap[midpoint span-80]
 
 ![alt](flowchart.png?raw=true)
 
-@spanend
+@snapend
 
 +++
 #### 実装
