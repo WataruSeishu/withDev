@@ -107,6 +107,8 @@ KPI：CSFごとに達成すべき数値
 
 +++
 #### 基本設計、詳細設計
+
+
 @fa[quote-left](シーケンス図)
 
 
@@ -114,10 +116,15 @@ KPI：CSFごとに達成すべき数値
 
 +++
 #### 基本設計、詳細設計
+
+
 @fa[quote-left](フローチャート)
+
+@snap[midpoint span-40]
 
 ![alt](flowchart.png?raw=true)
 
+@spanend
 
 ---
 ### アジャイルとウォーターフォール
