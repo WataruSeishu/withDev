@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>sequence</title>
+	<meta charset="UTF-8">
+	<script src="https://bramp.github.io/js-sequence-diagrams/js/webfont.js" ></script>
+	<script src="https://bramp.github.io/js-sequence-diagrams/js/snap.svg-min.js" ></script>
+	<script src="https://bramp.github.io/js-sequence-diagrams/js/underscore-min.js" ></script>
+	<script src="https://bramp.github.io/js-sequence-diagrams/js/sequence-diagram-min.js" ></script>
+</head>
+<body>
+    <div id="diagram"></div>
+    <script>
+      var sequence = "Title: 例：ECサイト・ログインシーケンス\n" +
+					 "ユーザー->ECサイト: ページ閲覧\n" +
+					 "ECサイト-->ログイン認証先: ログイン\n" +
+					 "ログイン認証先->>WEBアプリケーション: 認証OK\n" +
+					 "WEBアプリケーション->WEBアプリケーション: データベースとのやり取り等各種処理\n" +
+					 "WEBアプリケーション-->>ユーザー: ログイン認証完了・セッション開始";
+      var diagram = Diagram.parse(sequence);
+      diagram.drawSVG("diagram", {theme: 'simple'});
+    </script>
+</body>
+</html>

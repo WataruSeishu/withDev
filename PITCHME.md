@@ -108,14 +108,7 @@ KPI：CSFごとに達成すべき数値
 +++
 #### 基本設計、詳細設計
 
-```sequence
-Title: 例：ECサイト・ログインシーケンス
-ユーザー->ECサイト: ページ閲覧
-ECサイト-->ログイン認証先: ログイン
-ログイン認証先->>WEBアプリケーション: 認証OK
-WEBアプリケーション->WEBアプリケーション: データベース\nとのやり取り等\n各種処理
-WEBアプリケーション-->>ユーザー: ログイン認証完了・セッション開始
-​```
+![overview image](https://github.com/WataruSeishu/withDev/sequence.png)	
 
 ---
 
