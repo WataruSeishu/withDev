@@ -108,7 +108,7 @@ KPI：CSFごとに達成すべき数値
 +++
 #### 基本設計、詳細設計
 
-![overview image](https://github.com/WataruSeishu/withDev/sequence.png?raw=true)	
+![overview image](https://github.com/WataruSeishu/withDev/blob/master/sequence.png?raw=true)	
 
 ---
 
