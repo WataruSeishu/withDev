@@ -114,10 +114,12 @@ KPI：CSFごとに達成すべき数値
 
 +++
 @snap[midpoint span-20]
+
 #### 基本設計、詳細設計
 @fa[quote-left](フローチャート)
 
-![GRAPHQL](flowchart.png?raw=true)
+![alt](flowchart.png?raw=true)
+
 @snapend
 
 ---
