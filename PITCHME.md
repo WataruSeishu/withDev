@@ -228,7 +228,7 @@ Scrumなどではそのスプリントで達しなければ
 先程のV字モデルをベースに説明します。
 
 +++
-@snap[midpoint span-90]
+@snap[midpoint span-100]
 
 ### メテオフォール開発ってなに？
 
