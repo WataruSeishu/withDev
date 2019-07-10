@@ -420,7 +420,9 @@ POとかPMとか社長とかの鶴の一声が使える人たち
 +++
 ### メテオフォール開発ってなに？
 
-参考資料：http://eiki.hatenablog.jp/entry/meteo_fall
+参考資料：
+http://eiki.hatenablog.jp/entry/meteo_fall
+https://hogepiyohoo.hatenablog.com/entry/2019/07/07/003625
 
 ---
 ### 開発組織との付き合い方
